@@ -1,0 +1,1 @@
+const service_fqdf = <T>(args: T): T => { return args; };
