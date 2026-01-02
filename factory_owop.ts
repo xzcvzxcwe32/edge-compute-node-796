@@ -1,0 +1,1 @@
+const service_owop = <T>(args: T): T => { return args; };
